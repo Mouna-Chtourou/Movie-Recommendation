@@ -38,16 +38,16 @@ Le projet propose une approche innovante de la recommandation de films en utilis
 1. Clonez le repository du projet :
 
    ```bash
-   git clone https://github.com/tonutilisateur/nom_du_repo.git
+   https://github.com/Mouna-Chtourou/Movie-Recommendation.git
    ```
 2. Accédez au répertoire du projet  :
 
    ```bash
-   cd nom_du_repo
+   cd Movie-Recommendation
    ```
 3. Lancer le projet :
 
    ```bash
-   python main.py
+   python movie_recommender.py
    ```
 
