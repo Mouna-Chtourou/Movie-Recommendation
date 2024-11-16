@@ -53,4 +53,4 @@ Le projet propose une approche innovante de la recommandation de films en utilis
    
 ## Démo vidéo
 
-Voici la vidéo de démo de l'application. Cliquez [ici](demo.mp4) pour la télécharger ou la visionner.
+Voici la vidéo de démo de l'application. Cliquez [ici](demo-video.mp4) pour la télécharger ou la visionner.
